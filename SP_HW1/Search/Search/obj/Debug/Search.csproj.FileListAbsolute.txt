@@ -1,0 +1,7 @@
+C:\Users\Preacher\Desktop\HW\Search\Search\bin\Debug\Search.exe.config
+C:\Users\Preacher\Desktop\HW\Search\Search\bin\Debug\Search.exe
+C:\Users\Preacher\Desktop\HW\Search\Search\bin\Debug\Search.pdb
+C:\Users\Preacher\Desktop\HW\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Preacher\Desktop\HW\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Preacher\Desktop\HW\Search\Search\obj\Debug\Search.exe
+C:\Users\Preacher\Desktop\HW\Search\Search\obj\Debug\Search.pdb
